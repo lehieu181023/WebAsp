@@ -140,3 +140,4 @@ D:\ASP.NET Core\WebAsp\obj\Debug\net8.0\refint\WebAsp.dll
 D:\ASP.NET Core\WebAsp\obj\Debug\net8.0\WebAsp.pdb
 D:\ASP.NET Core\WebAsp\obj\Debug\net8.0\WebAsp.genruntimeconfig.cache
 D:\ASP.NET Core\WebAsp\obj\Debug\net8.0\ref\WebAsp.dll
+D:\ASP.NET Core\WebAsp\obj\Debug\net8.0\WebAsp.sourcelink.json

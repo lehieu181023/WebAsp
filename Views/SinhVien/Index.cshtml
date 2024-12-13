@@ -1,0 +1,79 @@
+﻿@model WebAsp.Models.ViewSinhVien
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>MASV</th>
+            <th>Khoa</th>
+            <th>Khóa học</th>
+            <th>Họ và tên</th>
+            <th>Ngày sinh</th>
+            <th>Giới tính</th>
+            <th>Cập nhập</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var sinhvien in Model.SinhViens) {
+            <tr>
+                <form asp-action="manage" method='post' >
+                    <input type='hidden' name="Idsinhvien" value= "@sinhvien.IdSinhVien">
+                    <th>
+                        @sinhvien.IdSinhVien
+                    </th>
+                    <th>
+                        <select class='form-select' name='IdNganh' id='mySelect'>
+                            @foreach (var nganh in Model.nganhs) {
+                                if (sinhvien.IdNganh.Equals(nganh.IdNganh))
+                                {
+                                    <option value='@nganh.IdNganh' selected>@nganh.Name</option>
+                                }
+                                else {
+                                    <option value='@nganh.IdNganh'>@nganh.Name</option>
+                                }
+                            }    
+                        </select>
+                    </th>
+                    <th>
+                        <input class='form-control' type='text' name='khoahoc' value='@sinhvien.KhoaHoc'>
+                    </th>
+                    <th>
+                        <input class='form-control' type='text' name='hoten' value='@sinhvien.HoTen'>
+                    </th>
+                    <th>
+                        <span class'error'></span>
+                        <input class='form-control' type='date' name='ngaysinh' value='@sinhvien.NgaySinh?.ToString("yyyy-MM-dd")'>
+                    </th>                           
+                    <th>
+                        <div class='input-group'> 
+                            <div class='form-check'>
+                                <input class='form-check-input' type='radio' name='gt' id='gt1' value='nam' @(sinhvien.GioiTinh.Equals("nam")? "checked" : ""))>
+                                <label class='form-check-label me-2' for='gt1'>   
+                            Nam                        
+                            </label>                    
+                            </div>                
+                            <div class='form-check'>
+                            <input class='form-check-input' type='radio' name='gt' id='gt2' value='Nữ' @(sinhvien.GioiTinh.Equals("Nữ") ? "checked" : "")>
+                            <label class='form-check-label' for='gt2'>           
+                            Nữ               
+                            </label>         
+                        </div> 
+                        </div> 
+                        </th>
+                        <th> 
+                        <input class='btn btn-success mg-3' type='submit' name='manage'value='Sửa'>
+                        <input class='btn btn-success' type='submit' name='manage' value='Xóa'>                        
+                        </th>                   
+                </form>
+            </tr>
+        }
+    </tbody>
+</table>

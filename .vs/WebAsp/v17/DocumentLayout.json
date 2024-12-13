@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\ASP.NET Core\\WebAsp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|d:\\asp.net core\\webasp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|d:\\asp.net core\\webasp\\views\\sinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|solutionrelative:views\\sinhvien\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|d:\\asp.net core\\webasp\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|solutionrelative:controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|d:\\asp.net core\\webasp\\models\\viewsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|solutionrelative:models\\viewsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|d:\\asp.net core\\webasp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|d:\\asp.net core\\webasp\\webasp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|solutionrelative:webasp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|d:\\asp.net core\\webasp\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|solutionrelative:models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|d:\\asp.net core\\webasp\\data\\webdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|solutionrelative:data\\webdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|d:\\asp.net core\\webasp\\models\\nganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4775A37-1E14-48A0-8C36-FE8866D8E343}|WebAsp.csproj|solutionrelative:models\\nganh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,53 +47,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "WebDbContext.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\WebAsp\\Data\\WebDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\WebDbContext.cs",
-              "ToolTip": "D:\\ASP.NET Core\\WebAsp\\Data\\WebDbContext.cs",
-              "RelativeToolTip": "Data\\WebDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T01:37:08.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WebAsp",
-              "DocumentMoniker": "D:\\ASP.NET Core\\WebAsp\\WebAsp.csproj",
-              "RelativeDocumentMoniker": "WebAsp.csproj",
-              "ToolTip": "D:\\ASP.NET Core\\WebAsp\\WebAsp.csproj",
-              "RelativeToolTip": "WebAsp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-13T01:36:23.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ASP.NET Core\\WebAsp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\ASP.NET Core\\WebAsp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T01:33:40.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\ASP.NET Core\\WebAsp\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "D:\\ASP.NET Core\\WebAsp\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-13T01:28:18.255Z",
+              "WhenOpened": "2024-12-13T02:14:39.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SinhVienController.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core\\WebAsp\\Controllers\\SinhVienController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SinhVienController.cs",
+              "ToolTip": "D:\\ASP.NET Core\\WebAsp\\Controllers\\SinhVienController.cs",
+              "RelativeToolTip": "Controllers\\SinhVienController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:14:31.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewSinhVien.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core\\WebAsp\\Models\\ViewSinhVien.cs",
+              "RelativeDocumentMoniker": "Models\\ViewSinhVien.cs",
+              "ToolTip": "D:\\ASP.NET Core\\WebAsp\\Models\\ViewSinhVien.cs",
+              "RelativeToolTip": "Models\\ViewSinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:14:26.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nganh.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core\\WebAsp\\Models\\Nganh.cs",
+              "RelativeDocumentMoniker": "Models\\Nganh.cs",
+              "ToolTip": "D:\\ASP.NET Core\\WebAsp\\Models\\Nganh.cs",
+              "RelativeToolTip": "Models\\Nganh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T02:01:35.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET Core\\WebAsp\\Views\\SinhVien\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SinhVien\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET Core\\WebAsp\\Views\\SinhVien\\Index.cshtml",
+              "RelativeToolTip": "Views\\SinhVien\\Index.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwDAAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-13T01:54:14.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sinhvien.cs",
+              "DocumentMoniker": "D:\\ASP.NET Core\\WebAsp\\Models\\sinhvien.cs",
+              "RelativeDocumentMoniker": "Models\\sinhvien.cs",
+              "ToolTip": "D:\\ASP.NET Core\\WebAsp\\Models\\sinhvien.cs",
+              "RelativeToolTip": "Models\\sinhvien.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T01:54:06.909Z",
               "EditorCaption": ""
             }
           ]
