@@ -1,0 +1,30 @@
+﻿@model WebAsp.Models.qlmonhoc
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>qlmonhoc</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.TENMH)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.TENMH)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.SOTINCHI)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.SOTINCHI)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.MAMH">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

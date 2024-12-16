@@ -1,14 +1,16 @@
 ﻿@model WebAsp.Models.ViewSinhVien
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "SinhVien";
 }
 
 <h1>Index</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
-</p>
+<div class="py-2">
+    <button type="button" class="btn btn-success" >
+        <a class="text-white" asp-action="Create">Thêm sinh viên</a>
+    </button>
+</div>
 <table class="table">
     <thead>
         <tr>
@@ -25,12 +27,12 @@
         @foreach (var sinhvien in Model.SinhViens) {
             <tr>
                 <form asp-action="manage" method='post' >
-                    <input type='hidden' name="Idsinhvien" value= "@sinhvien.IdSinhVien">
+                    <input type='hidden' asp-for="@sinhvien.IdSinhVien" value= "@sinhvien.IdSinhVien">
                     <th>
                         @sinhvien.IdSinhVien
                     </th>
                     <th>
-                        <select class='form-select' name='IdNganh' id='mySelect'>
+                        <select class='form-select' asp-for="@sinhvien.IdNganh" id='mySelect'>
                             @foreach (var nganh in Model.nganhs) {
                                 if (sinhvien.IdNganh.Equals(nganh.IdNganh))
                                 {
@@ -43,35 +45,35 @@
                         </select>
                     </th>
                     <th>
-                        <input class='form-control' type='text' name='khoahoc' value='@sinhvien.KhoaHoc'>
+                    <input class='form-control' type='text' asp-for="@sinhvien.KhoaHoc" value='@sinhvien.KhoaHoc'>
                     </th>
                     <th>
-                        <input class='form-control' type='text' name='hoten' value='@sinhvien.HoTen'>
+                    <input class='form-control' type='text' asp-for="@sinhvien.HoTen" value='@sinhvien.HoTen'>
                     </th>
                     <th>
                         <span class'error'></span>
-                        <input class='form-control' type='date' name='ngaysinh' value='@sinhvien.NgaySinh?.ToString("yyyy-MM-dd")'>
+                    <input class='form-control' type='date' asp-for="@sinhvien.NgaySinh" value='@sinhvien.NgaySinh?.ToString("yyyy-MM-dd")'>
                     </th>                           
                     <th>
                         <div class='input-group'> 
                             <div class='form-check'>
-                                <input class='form-check-input' type='radio' name='gt' id='gt1' value='nam' @(sinhvien.GioiTinh.Equals("nam")? "checked" : ""))>
-                                <label class='form-check-label me-2' for='gt1'>   
+                            <input class='form-check-input' type='radio' asp-for="@sinhvien.GioiTinh" id='gt1' value='nam' checked=@(sinhvien.GioiTinh.Equals("nam")? "checked" : "") />
+                            <label class='form-check-label me-2' asp-for="@sinhvien.GioiTinh">
                             Nam                        
                             </label>                    
                             </div>                
                             <div class='form-check'>
-                            <input class='form-check-input' type='radio' name='gt' id='gt2' value='Nữ' @(sinhvien.GioiTinh.Equals("Nữ") ? "checked" : "")>
-                            <label class='form-check-label' for='gt2'>           
+                            <input class='form-check-input' type='radio' asp-for="@sinhvien.GioiTinh" id='gt2' value='Nữ' checked=@(sinhvien.GioiTinh.Equals("Nữ") ? "checked" : "") />
+                            <label class='form-check-label' asp-for="@sinhvien.GioiTinh">
                             Nữ               
                             </label>         
+                            </div> 
                         </div> 
-                        </div> 
-                        </th>
-                        <th> 
-                        <input class='btn btn-success mg-3' type='submit' name='manage'value='Sửa'>
-                        <input class='btn btn-success' type='submit' name='manage' value='Xóa'>                        
-                        </th>                   
+                    </th>
+                    <th> 
+                        <input class='btn btn-success mg-3' type='submit' name='action' value='Sửa'>
+                        <input class='btn btn-success' type='submit' name='action' value='Xóa'>                        
+                    </th>                   
                 </form>
             </tr>
         }

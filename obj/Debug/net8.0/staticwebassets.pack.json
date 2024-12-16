@@ -245,6 +245,626 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\esm\\popper-utils.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\esm\\popper-utils.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\esm\\popper-utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\esm\\popper-utils.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\esm\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\esm\\popper-utils.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\esm\\popper-utils.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\esm\\popper-utils.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\esm\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\esm\\popper.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\esm\\popper.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\esm\\popper.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\esm\\popper.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\esm\\popper.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\esm\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\esm\\popper.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\popper-utils.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\popper-utils.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\popper-utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\popper-utils.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\popper-utils.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\popper-utils.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\popper-utils.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\popper.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\popper.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\popper.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\popper.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\popper.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\popper.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\umd\\popper-utils.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\umd\\popper-utils.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\umd\\popper-utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\umd\\popper-utils.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\umd\\popper-utils.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\umd\\popper-utils.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\umd\\popper-utils.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\umd\\popper-utils.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\umd\\popper.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\umd\\popper.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\umd\\popper.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\umd\\popper.js.flow"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\umd\\popper.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\umd\\popper.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\umd\\popper.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\umd\\popper.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\dist\\umd\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\dist\\umd\\popper.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\index.d.ts"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\index.js.flow",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\index.js.flow"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\package.json",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\package.json"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\readme.md",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\readme.md"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\index.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\index.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\index.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\index.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\methods\\defaults.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\methods\\defaults.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\methods\\defaults.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\methods\\defaults.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\methods\\destroy.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\methods\\destroy.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\methods\\destroy.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\methods\\destroy.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\methods\\disableeventlisteners.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\methods\\disableeventlisteners.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\methods\\disableeventlisteners.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\methods\\disableeventlisteners.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\methods\\enableeventlisteners.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\methods\\enableeventlisteners.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\methods\\enableeventlisteners.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\methods\\enableeventlisteners.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\methods\\placements.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\methods\\placements.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\methods\\placements.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\methods\\placements.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\methods\\update.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\methods\\update.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\methods\\update.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\methods\\update.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\applystyle.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\applystyle.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\applystyle.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\applystyle.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\arrow.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\arrow.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\arrow.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\arrow.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\computestyle.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\computestyle.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\computestyle.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\computestyle.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\flip.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\flip.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\flip.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\flip.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\hide.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\hide.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\hide.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\hide.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\index.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\index.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\index.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\index.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\inner.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\inner.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\inner.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\inner.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\keeptogether.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\keeptogether.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\keeptogether.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\keeptogether.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\offset.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\offset.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\offset.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\offset.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\preventoverflow.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\preventoverflow.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\preventoverflow.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\preventoverflow.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\shift.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\shift.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\modifiers\\shift.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\modifiers\\shift.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\clockwise.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\clockwise.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\clockwise.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\clockwise.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\computeautoplacement.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\computeautoplacement.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\computeautoplacement.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\computeautoplacement.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\debounce.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\debounce.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\debounce.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\debounce.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\find.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\find.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\find.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\find.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\findcommonoffsetparent.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\findcommonoffsetparent.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\findcommonoffsetparent.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\findcommonoffsetparent.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\findindex.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\findindex.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\findindex.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\findindex.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getborderssize.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getborderssize.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getborderssize.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getborderssize.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getboundaries.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getboundaries.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getboundaries.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getboundaries.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getboundingclientrect.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getboundingclientrect.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getboundingclientrect.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getboundingclientrect.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getclientrect.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getclientrect.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getclientrect.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getclientrect.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getfixedpositionoffsetparent.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getfixedpositionoffsetparent.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getfixedpositionoffsetparent.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getfixedpositionoffsetparent.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getoffsetparent.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getoffsetparent.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getoffsetparent.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getoffsetparent.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getoffsetrect.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getoffsetrect.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getoffsetrect.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getoffsetrect.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getoffsetrectrelativetoarbitrarynode.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getoffsetrectrelativetoarbitrarynode.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getoffsetrectrelativetoarbitrarynode.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getoffsetrectrelativetoarbitrarynode.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getoppositeplacement.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getoppositeplacement.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getoppositeplacement.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getoppositeplacement.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getoppositevariation.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getoppositevariation.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getoppositevariation.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getoppositevariation.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getoutersizes.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getoutersizes.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getoutersizes.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getoutersizes.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getparentnode.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getparentnode.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getparentnode.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getparentnode.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getpopperoffsets.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getpopperoffsets.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getpopperoffsets.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getpopperoffsets.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getreferencenode.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getreferencenode.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getreferencenode.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getreferencenode.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getreferenceoffsets.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getreferenceoffsets.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getreferenceoffsets.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getreferenceoffsets.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getroot.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getroot.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getroot.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getroot.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getroundedoffsets.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getroundedoffsets.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getroundedoffsets.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getroundedoffsets.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getscroll.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getscroll.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getscroll.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getscroll.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getscrollparent.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getscrollparent.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getscrollparent.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getscrollparent.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getstylecomputedproperty.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getstylecomputedproperty.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getstylecomputedproperty.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getstylecomputedproperty.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getsupportedpropertyname.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getsupportedpropertyname.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getsupportedpropertyname.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getsupportedpropertyname.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getviewportoffsetrectrelativetoartbitrarynode.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getviewportoffsetrectrelativetoartbitrarynode.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getviewportoffsetrectrelativetoartbitrarynode.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getviewportoffsetrectrelativetoartbitrarynode.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getwindow.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getwindow.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getwindow.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getwindow.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getwindowsizes.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getwindowsizes.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\getwindowsizes.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\getwindowsizes.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\includescroll.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\includescroll.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\includescroll.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\includescroll.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\index.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\index.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\index.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\index.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\isbrowser.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\isbrowser.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\isbrowser.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\isbrowser.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\isfixed.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\isfixed.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\isfixed.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\isfixed.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\isfunction.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\isfunction.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\isfunction.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\isfunction.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\isie.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\isie.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\isie.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\isie.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\ismodifierenabled.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\ismodifierenabled.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\ismodifierenabled.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\ismodifierenabled.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\ismodifierrequired.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\ismodifierrequired.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\ismodifierrequired.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\ismodifierrequired.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\isnumeric.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\isnumeric.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\isnumeric.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\isnumeric.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\isoffsetcontainer.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\isoffsetcontainer.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\isoffsetcontainer.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\isoffsetcontainer.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\removeeventlisteners.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\removeeventlisteners.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\removeeventlisteners.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\removeeventlisteners.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\runmodifiers.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\runmodifiers.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\runmodifiers.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\runmodifiers.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\setattributes.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\setattributes.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\setattributes.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\setattributes.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\setstyles.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\setstyles.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\setstyles.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\setstyles.min.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\setupeventlisteners.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\setupeventlisteners.js"
+    },
+    {
+      "Id": "D:\\ASP.NET Core\\WebAsp\\wwwroot\\lib\\popper.js\\src\\utils\\setupeventlisteners.min.js",
+      "PackagePath": "staticwebassets\\lib\\popper.js\\src\\utils\\setupeventlisteners.min.js"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebAsp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

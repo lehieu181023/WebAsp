@@ -1,17 +1,16 @@
-﻿using Microsoft.AspNetCore.Builder;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using WebAsp.Models;
 
 namespace WebAsp.Data
 {
-    public class WebDbContext: DbContext
+    public class WebDbContext : DbContext
     {
-        public WebDbContext(DbContextOptions<WebDbContext> options) : base(options){}
-        public DbSet<sinhvien> sinhvien { get; set; } = default!;
+        public WebDbContext(DbContextOptions<WebDbContext> options) : base(options) { }
+        public DbSet<SinhVien> sinhvien { get; set; } = default!;
         public DbSet<Nganh> nganh { get; set; } = default!;
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<sinhvien>(entity =>
+            modelBuilder.Entity<SinhVien>(entity =>
             {
                 entity.ToTable("qlsinhvien");
 
@@ -48,5 +47,6 @@ namespace WebAsp.Data
 
             });
         }
+        public DbSet<WebAsp.Models.qlmonhoc> qlmonhoc { get; set; } = default!;
     }
 }

@@ -1,0 +1,10 @@
+{
+  "version": "3.0",
+  "defaultProvider": "jsdelivr",
+  "libraries": [
+    {
+      "library": "popper.js@1.16.1",
+      "destination": "wwwroot/lib/poperjs/popper.js/"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+﻿@model WebAsp.Models.CreateSinhVien
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>SinhVien</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            <div class="">
+                <label class="form-label " asp-for="sinhvien.IdSinhVien">Mã sinh viên:</label><br>
+                <input class="form-control" type="text" asp-for="sinhvien.IdSinhVien" id="masv">
+            </div>
+            <div class="">
+                <label class="form-label align-items-center" asp-for="sinhvien.IdNganh">Khoa: </label>
+                <select class='form-select' asp-for="sinhvien.IdNganh" id='mySelect'>
+                    @foreach (var nganh in Model.nganhs)
+                    {
+                         <option value='@nganh.IdNganh'>@nganh.Name</option>
+                    }
+                </select>
+            </div>
+            <div class="">
+                <label class="control-label" asp-for="sinhvien.KhoaHoc">Khóa học: </label><br>
+                <input class="form-control" type="text" asp-for="sinhvien.KhoaHoc" placeholder="">
+            </div>
+            <div class="">
+                <label class="control-label" asp-for="sinhvien.HoTen">Họ và tên: </label><br>
+                <input class="form-control" type="text" asp-for="sinhvien.HoTen" placeholder="">
+            </div>
+            <div class="">
+                <label class="control-label" asp-for="sinhvien.NgaySinh">Ngày sinh : </label> <br>
+                <input asp-for="sinhvien.NgaySinh" type="date" class="form-control" style="width:auto" />
+            </div>
+            <div class="">
+                <label class="control-label">Giới tính:</label><br>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="sinhvien.GioiTinh" id="gt1" value="nam">
+                    <label class="form-check-label me-2" asp-for="sinhvien.GioiTinh">
+                        Nam
+                    </label>
+                </div>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" asp-for="sinhvien.GioiTinh" id="gt2" value="Nữ" checked>
+                    <label class="form-check-label" asp-for="sinhvien.GioiTinh">
+                        Nữ
+                    </label>
+                </div>
+            </div>
+            <div class="me-5">
+                <input class="btn btn-success" type="submit" name="btnthem" id="submitBtn" value="Thêm">
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
